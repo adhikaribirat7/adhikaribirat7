@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**adhikaribirat7/adhikaribirat7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I love creating websites, working with 3D graphics, and building user friendly systems.
 
-Here are some ideas to get you started:
+💡 My Interests
+Web Development (React, Redux, Tailwind CSS)
+3D &websites  (Three.js, React Three Fiber, gsap)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🛠️ My Skills
+Frontend: React, Redux, Tailwind CSS
+Backend: Node.js, Express,
+3D & Graphics: Three.js,gsap
+Database: MySQL, MongoDB
+
+💻 Why I Want to Join the Developers' Community
+I love learning, sharing knowledge, and working on exciting projects. This community will help me grow, meet other developers, and improve my as weel other skills. 🚀
 -->
