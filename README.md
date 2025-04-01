@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🚀 About Me  
-I love creating websites, working with 3D graphics, and building user-friendly systems.  
+I create websites, working with 3D graphics, and building user-friendly systems.  
 
 ### 💡 My Interests  
 - **Web Development** (React, Redux, Tailwind CSS)  
